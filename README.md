@@ -12,7 +12,7 @@
 
   <!-- Title & Tagline -->
   <h1>Hi, I'm Balajee (Jee) Dutta 👋</h1>
-  <h3>People & Finance Analytics • HR Data Science & Compensation • API & Gen-AI</h3>
+  <h3>People & Finance Analytics • Financial Modeling, Forecasting & Budgeting • API & Gen-AI</h3>
   <p>MSc Business Analytics (UK) • Ex-Amazon • Python • SQL • Power BI • AWS</p>
 </div>
 
@@ -58,8 +58,9 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 
 <a name="what-i-do"></a>
 ## 🔧 What I Do
-- **People & HR Analytics:** Attrition, compensation, workforce planning, engagement, DEI metrics.  
-- **Finance Analytics:** Variance analysis, forecasting, P&L modelling, budget vs. actuals.  
+- **People & Finance Analytics:** Attrition, compensation, workforce planning, engagement, budgeting, P&L reporting.  
+- **Financial Modeling & Forecasting:** Scenario modelling, variance analysis, long-range planning.  
+- **Budgeting & Planning:** End-to-end FP&A, budget vs actuals, cost optimization insights.  
 - **API Programming:** Robust data pipelines & integrations; automate data flows and reporting.  
 - **Generative AI:** Prompt engineering, model-assisted analytics, decision copilots for HR/Finance.  
 - **BI & Storytelling:** Executive dashboards, KPI frameworks, and actionable narratives.
@@ -72,7 +73,7 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 ## 🧠 Skills & Tools
 **Core:** SQL (CTEs, window functions), **Python** (Pandas), **Power BI**, Tableau, **AWS (Redshift/QuickSight)**  
 **Methods:** Forecasting, segmentation, classification, time-series, experiment design, variance analysis  
-**Extras:** Data governance, reproducibility, documentation, stakeholder management  
+**Extras:** Financial modelling, budgeting, data governance, reproducibility, documentation, stakeholder management  
 **Certs:** **Lean Six Sigma Green Belt**
 
 <p align="left">
@@ -81,7 +82,10 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/People_Analytics-6C3483?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HR_Data_Science-D9534F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Finance_Analysis-2E86C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Financial_Modelling-117A65?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forecasting-B03A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Budgeting-CA6F1E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API_Programming-5B7FFF?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative_AI-000000?logo=openai&logoColor=white&style=for-the-badge" />
 </p>
@@ -94,7 +98,7 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 ## 🧩 Focus Areas (People & Finance)
 - **Compensation & HRIS Analytics:** pay equity, bands, promotion velocity, cohort trends.  
 - **Workforce Health:** attrition risk, engagement drivers, manager scorecards, hiring funnels.  
-- **Financial Planning:** unit economics, pricing & margin analytics, scenario modelling.  
+- **Financial Planning & Analysis:** unit economics, P&L modelling, budgeting, variance analytics.  
 - **Ops & SLT Support:** KPI packs, weekly business reviews, board/SLT visuals.
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
@@ -122,7 +126,7 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 
 <a name="quick-summary-for-recruiters"></a>
 ### Quick Summary (for recruiters)
-**Ex-Amazon** analytics lead with **6+ years** experience across **People & Finance Analytics**, expert in **SQL, Python, Power BI, AWS**. Built scalable dashboards and forecasting models that cut manual work by **40%**, achieved **96% stakeholder satisfaction**, and delivered **profitability (+20%)** and **revenue (+18%)** gains at prior roles. Strong **API programming** and **Gen-AI** orientation; MSc Business Analytics (UK, 2025).
+**Ex-Amazon** analytics lead with **6+ years** experience across **People & Finance Analytics**, expert in **SQL, Python, Power BI, AWS**. Built scalable dashboards and forecasting models that cut manual work by **40%**, achieved **96% stakeholder satisfaction**, and delivered **profitability (+20%)** and **revenue (+18%)** gains at prior roles. Strong **API programming**, **Financial modelling**, **Forecasting**, **Budgeting**, and **Gen-AI** orientation; MSc Business Analytics (UK, 2025).
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
