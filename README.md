@@ -47,7 +47,7 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 - Enabled Finance/HR/Ops leaders to act faster: **-40% manual reporting**, **96% stakeholder satisfaction**.  
 - Drove measurable gains in **engagement** and **cost control** via variance & performance analytics.
 
-**NoBroker (Prop-Tech) & BYJU’S (Ed-Tech)**  
+**NoBroker (Prop-Tech) & BYJU’S (Ed-Tech)- Analytics Manager**  
 - Implemented **forecasting frameworks** and **data engineering** solutions.  
 - Delivered **+20% profitability** and **+18% revenue uplift** through commercial analytics & financial reporting.
 </details>
