@@ -42,7 +42,7 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 <details open>
 <summary><b>Expand / Collapse</b></summary>
 
-**Amazon – Senior HR Data Analyst (Global, 24k+ employees supported)**  
+**Amazon – Senior/Lead Data Analyst (Global, 24k+ employees supported)**  
 - Built automated dashboards in **AWS Redshift, QuickSight, Power BI** with **99.8% data accuracy**.  
 - Enabled Finance/HR/Ops leaders to act faster: **-40% manual reporting**, **96% stakeholder satisfaction**.  
 - Drove measurable gains in **engagement** and **cost control** via variance & performance analytics.
