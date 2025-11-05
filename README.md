@@ -132,7 +132,4 @@ I’m a Business Intelligence/Analytics professional with **6+ years** deliverin
 
 ---
 
-### (Optional) Profile Footer Badge Strip
-<p align="center">
-  <a href="#top">🔝 Back to navigation</a>
-</p>
+
